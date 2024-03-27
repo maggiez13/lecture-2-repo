@@ -10,3 +10,5 @@ test test
 adding to be able to pull request 
 
 feature/added-content
+
+### Editing the repo from github 
